@@ -1,0 +1,6 @@
+class HelloWorld {
+    public static void main(String[] args) {
+        String n1 = "Bob";
+        
+        System.out.println("n1.equals("bob"));
+    }
